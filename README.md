@@ -4,6 +4,10 @@
 
 为了更适配Kali Linux编译的 Redis(<=5.0.5) 主从复制 RCE.
 
+## 靶机
+
+[vulhub](https://github.com/vulhub/vulhub/blob/master/redis/4-unacc/README.md)
+
 ## 要求
 
 Python 3.x
